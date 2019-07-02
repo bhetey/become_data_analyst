@@ -9,9 +9,13 @@ Feel free to use.
 ### Table of Content.
 
 - Data Analysis Overview
-- What you will learn 
-- what you will not learn right now. 
+- What you will learn
+- what you will not learn right now.
 - Introduction to Progamming using Python
+- What is JuputerNotebook for Data Science.
+- How to install Python for Windows (_version 2 or 3_)
+- How to install Python for Mac (_version 2 or 3_)
+- How to install JupterBook using Anaconda
 - Introduction to DataFrames and Data Series
 - Data Analysis Process
 
