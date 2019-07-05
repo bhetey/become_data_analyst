@@ -22,12 +22,29 @@ The lessons on this course has been designed to help you get up to speed in the 
     - it is case sensitive (`helloworld` is not the same as `HelloWorld`)
     - spacing is essentials.
     - use error messages to your advantage.
-- Data Types & Operators
+- **Data Types & Operators**
   - You'll learn about:
     - Integers, Floats, Booleans, Strings
     - Operators: Arithmetic, Assignment, Comparison Logical
     - [Mathematical Order of Operations](http://mathforum.org/dr.math/faq/faq.order.operations.html)
     - Built-In Functions, Type Conversion
     - Whitespace and Style Guidelines
+    - Variables & Assignment Operators
+    - Type and Type Conversion
+- **Data Structures in Python**
+  - Lists
+  - Dictionary and Identity Operator
+  - Tuples
+  - Sets
+  - Compound Data Structures
+- **Control Flow**
+  - Conditional Statement
+    - if, else
+  - Loops
+    - for
+    - while
+    - continue and break
+    - zip and enumerate
+  - List comprehension
 - Introduction to DataFrames and Data Series
 - Data Analysis Process
