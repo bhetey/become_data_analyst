@@ -32,7 +32,4 @@ The lessons on this course has been designed to help you get up to speed in the 
 - Introduction to DataFrames and Data Series
 - Data Analysis Process
 
-**Note** :
-Above, there is a prooject i worked on called `no_show_medical_appointment`. After going through all the content, please ensure you give the project a try and do more with it.
-
 If you have questions about my approach, please feel free to contact me [Email Me.](mailto:omifaredammy@gmail.com)
