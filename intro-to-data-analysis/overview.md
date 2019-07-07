@@ -48,3 +48,34 @@ Please read more [Here](https://www.springboard.com/blog/data-analyst-vs-data-sc
 
 - [Google Duplex](https://www.youtube.com/watch?v=D5VN56jQMWM)
 - [Microsoft’s Semantic Machines Showcases New Conversational AI Technology](https://www.youtube.com/watch?v=D5VN56jQMWM)
+
+## Data Types & Operators
+
+- Integer `1,2,3,4,5`
+- floats `1.23, 44.45, 203.67`
+- strings `hello, hi there, what is new, i am a emoji, haha`
+- boolean `true, false`
+
+Operators:
+
+- `+`
+- `-`
+- `*`
+- `/`
+- `<`
+- `>`
+- `<=`
+- `>=`
+
+## Variables
+
+```python
+
+a = 2
+b = 'Hellworld'
+c = true
+print(a) ## python 3..
+print a ## python 2.7
+```
+
+## Types
