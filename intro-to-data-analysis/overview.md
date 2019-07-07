@@ -16,8 +16,6 @@ After doing some researches and asking questions about what people think these 3
 
 - **Machine Learning (ML)**: is a part of AI that involves the use of statistics to teach a computer how to learn or tool used to teach machine making use of traditional machine learning algorithms. ML is almost similar to computational statistics. For more reading, visit ML Wikipedia
 
-​
-
 - **Deep Learning (DL)**: is also known as hierarchical learning. DL is part of the ML methods used in AI. So you can see where the connection is. Altogether is a subset of AI and ML that automatically learn from representations from data such as images, text, without hand-coded rules or human domain knowledge.
   ​
   One of many of the recent breakthroughs of DL in AI is the Google DeepMind's Alpha Go. In October 2015, AlphaGo became the first computer Go program to beat a human professional Go player without handicaps on a full-sized 19×19 board. Read more AlphaGo.
@@ -46,4 +44,7 @@ Please read more [Here](https://www.springboard.com/blog/data-analyst-vs-data-sc
 
 - going through the installation for Mac and Windows
 
-##
+## Get inspired by things built with Python already
+
+- [Google Duplex](https://www.youtube.com/watch?v=D5VN56jQMWM)
+- [Microsoft’s Semantic Machines Showcases New Conversational AI Technology](https://www.youtube.com/watch?v=D5VN56jQMWM)
