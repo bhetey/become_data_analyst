@@ -47,7 +47,7 @@ Please read more [Here](https://www.springboard.com/blog/data-analyst-vs-data-sc
 ## Get inspired by things built with Python already
 
 - [Google Duplex](https://www.youtube.com/watch?v=D5VN56jQMWM)
-- [Microsoft’s Semantic Machines Showcases New Conversational AI Technology](https://www.youtube.com/watch?v=D5VN56jQMWM)
+- [Microsoft’s Semantic Machines Showcases New Conversational AI Technology](https://www.youtube.com/watch?v=G_v5B_gYceM)
 
 ## Data Types & Operators
 
@@ -74,8 +74,8 @@ Operators:
 a = 2
 b = 'Hellworld'
 c = true
-print(a) ## python 3..
-print a ## python 2.7
+print(a) ## python version  3..
+print a ## python version 2.7
 ```
 
 ## Types
