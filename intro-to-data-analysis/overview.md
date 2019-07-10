@@ -91,3 +91,12 @@ There are various data types in python. The most common used once are :
 ## Control Flow
 
 Use control flow to handle the logics of your implementation.
+
+- Conditional Statement
+  - `if` `else`
+- Loops
+  - `for`
+  - `while`
+  - `continue` and `break`
+  - `zip` and `enumerate`
+- `list comprehension`
