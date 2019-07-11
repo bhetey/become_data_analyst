@@ -88,7 +88,7 @@ There are various data types in python. The most common used once are :
 - `dict`
 - `str`
 
-## Control Flow
+## Program Flow
 
 Use control flow to handle the logics of your implementation.
 
@@ -100,3 +100,19 @@ Use control flow to handle the logics of your implementation.
   - `continue` and `break`
   - `zip` and `enumerate`
 - `list comprehension`
+  > There are more that was not mentioned in this presentation.
+
+## Exercise
+
+> For some these exercises you do not have to code them right way but it is important you write down your `pseudocode`. _`pseudocode` is a breakdown of what you want your `code` to do._
+
+> ```python
+> /*
+> # you want to add 2 digits or numbers together.
+> # your pseucode will look like this.
+> """
+>  -> get the first number
+> -> get the second number
+> -> using addition sign to add them together
+> -> show the result of the addition """
+> ```
