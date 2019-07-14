@@ -116,3 +116,79 @@ Use control flow to handle the logics of your implementation.
 > -> using addition sign to add them together
 > -> show the result of the addition """
 > ```
+
+> Question :
+>
+> - Write a array that contains some sets of numbers.
+> - Write an expression that calculates the average of 3 numbers and print your output.
+> - create 3 variables with different data types.
+> - Write a function that returns the `Area` of a triangle.
+> - Write a function that returns the `Perimeter` of a triangle.
+> - Write a function that returns the `Area and Circumference` of a circle.
+
+> Quiz : In the fishy situation below, some of the quantities are of type int and some are of type float. Check all the ones that should be of type float.
+
+- [ ] How many people came on your fishing trip
+- [ ] Length of a fish you caught, in meters
+- [ ] Number of fish caught on a fishing trip
+- [ ] Length of time it took to catch the first fish, in hours
+
+> What happens if you divide by zero in Python? Try it out! Test run this code and see what happens.
+
+````python
+  print(5/0) ```
+````
+
+```python
+sf_population, sf_area = 864816, 231.89
+rio_population, rio_area = 6453682, 486.5
+
+san_francisco_pop_density = sf_population/sf_area
+rio_de_janeiro_pop_density = rio_population/rio_area
+
+# Write code that prints True if San Francisco is denser than Rio, and False otherwise
+
+```
+
+```python
+# TODO: Fix this string!\
+ford_quote = 'Whether you think you can, or you think you can't--you're right.'
+```
+
+> Quiz: What Type Do These Objects Have?
+>
+> - What type does this object have? `'12'`.
+> - What type does this object have? `12.3`
+> - What type does this object have? `len("my_string")`
+> - What type does this object have? `"hippo" * 16`
+
+## String Methods
+
+`len("this")`
+
+`type(12)`
+
+`print("Hello world")`
+
+![String Methods](../intro-to-data-analysis/stringmethod.png)
+
+```python
+# what are the expected output ?
+new_str = "The cow jumped over the moon."
+new_str.split()
+```
+
+> String Methods Coding Practice
+>
+> - What is the length of the string variable verse?
+> - What is the index of the first occurrence of the word 'and' in verse?
+> - What is the index of the last occurrence of the word 'you' in verse?
+> - What is the count of occurrences of the word 'you' in the verse?
+
+```python
+
+verse = "If you can keep your head when all about you\n  Are losing theirs and blaming it on you,\nIf you can trust yourself when all men doubt you,\n  But make allowance for their doubting too;\nIf you can wait and not be tired by waiting,\n  Or being lied about, don’t deal in lies,\nOr being hated, don’t give way to hating,\n  And yet don’t look too good, nor talk too wise:"
+print(verse)
+
+# Use the appropriate functions and methods to answer the questions above
+```
