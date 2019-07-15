@@ -87,20 +87,7 @@ There are various data types in python. The most common used once are :
 - `array`
 - `dict`
 - `str`
-
-## Program Flow
-
-Use control flow to handle the logics of your implementation.
-
-- Conditional Statement
-  - `if` `else`
-- Loops
-  - `for`
-  - `while`
-  - `continue` and `break`
-  - `zip` and `enumerate`
-- `list comprehension`
-  > There are more that was not mentioned in this presentation.
+- `tuple`
 
 ## Exercise
 
@@ -121,10 +108,6 @@ Use control flow to handle the logics of your implementation.
 >
 > - Write a array that contains some sets of numbers.
 > - Write an expression that calculates the average of 3 numbers and print your output.
-> - create 3 variables with different data types.
-> - Write a function that returns the `Area` of a triangle.
-> - Write a function that returns the `Perimeter` of a triangle.
-> - Write a function that returns the `Area and Circumference` of a circle.
 
 > Quiz : In the fishy situation below, some of the quantities are of type int and some are of type float. Check all the ones that should be of type float.
 
@@ -149,6 +132,22 @@ rio_de_janeiro_pop_density = rio_population/rio_area
 # Write code that prints True if San Francisco is denser than Rio, and False otherwise
 
 ```
+
+## Program Flow
+
+Use control flow to handle the logics of your implementation.
+
+- Conditional Statement
+  - `if` `else`
+- Loops
+  - `for`
+  - `while`
+  - `continue` and `break`
+  - `zip` and `enumerate`
+- `list comprehension`
+  > There are more that was not mentioned in this presentation.
+
+### Exercise
 
 ```python
 # TODO: Fix this string!\
@@ -192,3 +191,27 @@ print(verse)
 
 # Use the appropriate functions and methods to answer the questions above
 ```
+
+## Functions
+
+> A function is a block of organized, reusable code that is used to perform a single, related action. Example of function is the built python `print` used to display expression or whatever you want display to the screen.
+
+These are logics we use to handle repetitive task. Think of it as you want _an application that take any number and do basic arithmetic computation_. You can say an place where you
+
+When defining a function, several parts needs to be considered. These are :
+
+- **Function Header**
+
+  - The function header always starts with the `def` keyword, which indicates that this is a function definition.
+  - Then the function name comes. Note that function names follows the same naming conventions as variables.
+  - Immediately, after the parenthesis we have the function `parameters`, then you close the parenthesis. `parameters` are input you want to pass into the function when it is called.
+  - Then we have the `:`. This always end the header
+
+- **Function Body**
+  - this is where the magic happens.
+  - we define the argument variables and new variables we want to use here.
+
+> - create 3 variables with different data types.
+> - Write a function that returns the `Area` of a triangle.
+> - Write a function that returns the `Perimeter` of a triangle.
+> - Write a function that returns the `Area and Circumference` of a circle.
