@@ -215,3 +215,9 @@ When defining a function, several parts needs to be considered. These are :
 > - Write a function that returns the `Area` of a triangle.
 > - Write a function that returns the `Perimeter` of a triangle.
 > - Write a function that returns the `Area and Circumference` of a circle.
+
+```python
+def functionName(paramter):
+  ## its body
+
+```
