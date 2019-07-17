@@ -220,4 +220,17 @@ When defining a function, several parts needs to be considered. These are :
 def functionName(paramter):
   ## its body
 
+"""
+  - here is a function that takes two parameters
+  - first_parameter
+  - second_parameter
+  - sums up the two parameters and return the result.
+"""
+def addTwoParameters(firstParameter, secondParamter):
+  addition = int(firstParameter) + int(secondParamter)
+  return addition
+
+# here we need to call the function
+print (addTwoParameters(5, 6))
+# expected output 11.
 ```
