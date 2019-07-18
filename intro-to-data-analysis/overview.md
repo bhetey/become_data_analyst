@@ -211,11 +211,6 @@ When defining a function, several parts needs to be considered. These are :
   - this is where the magic happens.
   - we define the argument variables and new variables we want to use here.
 
-> - create 3 variables with different data types.
-> - Write a function that returns the `Area` of a triangle.
-> - Write a function that returns the `Perimeter` of a triangle.
-> - Write a function that returns the `Area and Circumference` of a circle.
-
 ```python
 def functionName(paramter):
   ## its body
@@ -234,3 +229,10 @@ def addTwoParameters(firstParameter, secondParamter):
 print (addTwoParameters(5, 6))
 # expected output 11.
 ```
+
+Exercise `Function`
+
+> - create 3 variables with different data types.
+> - Write a function that returns the `Area` of a triangle.
+> - Write a function that returns the `Perimeter` of a triangle.
+> - Write a function that returns the `Area and Circumference` of a circle.
