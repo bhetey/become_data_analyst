@@ -122,16 +122,12 @@ There are various data types in python. The most common used once are :
   print(5/0) ```
 ````
 
-```python
-sf_population, sf_area = 864816, 231.89
-rio_population, rio_area = 6453682, 486.5
-
-san_francisco_pop_density = sf_population/sf_area
-rio_de_janeiro_pop_density = rio_population/rio_area
-
-# Write code that prints True if San Francisco is denser than Rio, and False otherwise
-
-```
+> Quiz: What Type Do These Objects Have?
+>
+> - What type does this object have? `'12'`.
+> - What type does this object have? `12.3`
+> - What type does this object have? `len("my_string")`
+> - What type does this object have? `"hippo" * 16`
 
 ## Program Flow
 
@@ -147,19 +143,16 @@ Use control flow to handle the logics of your implementation.
 - `list comprehension`
   > There are more that was not mentioned in this presentation.
 
-### Exercise
-
 ```python
-# TODO: Fix this string!\
-ford_quote = 'Whether you think you can, or you think you can't--you're right.'
-```
+sf_population, sf_area = 864816, 231.89
+rio_population, rio_area = 6453682, 486.5
 
-> Quiz: What Type Do These Objects Have?
->
-> - What type does this object have? `'12'`.
-> - What type does this object have? `12.3`
-> - What type does this object have? `len("my_string")`
-> - What type does this object have? `"hippo" * 16`
+san_francisco_pop_density = sf_population/sf_area
+rio_de_janeiro_pop_density = rio_population/rio_area
+
+# Write code that prints True if San Francisco is denser than Rio, and False otherwise
+
+```
 
 ## String Methods
 
@@ -175,6 +168,13 @@ ford_quote = 'Whether you think you can, or you think you can't--you're right.'
 # what are the expected output ?
 new_str = "The cow jumped over the moon."
 new_str.split()
+```
+
+### Exercise
+
+```python
+# TODO: Fix this string!\
+ford_quote = 'Whether you think you can, or you think you can't--you're right.'
 ```
 
 > String Methods Coding Practice
