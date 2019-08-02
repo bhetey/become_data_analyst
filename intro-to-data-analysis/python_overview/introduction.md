@@ -4,7 +4,7 @@
 
 ## Understanding the misconception between **`ML, DL & AI`**
 
-![Misconception](../intro-to-data-analysis/misconception.png)
+![Misconception](/intro-to-data-analysis/misconception.png)
 Picture
 Source :Nvidia
 Picture
