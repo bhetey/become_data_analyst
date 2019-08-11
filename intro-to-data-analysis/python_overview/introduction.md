@@ -26,7 +26,7 @@ Each one of these concepts has its own strengths and weakness. It all depends on
 
 ## Difference between a **Data Analyst** & **Data Scientist**
 
-If you have an analytical mindset and love decoding data to tell a story, you may want to consider a career as a data analyst or data scientist. After all, they are two of the hottest jobs in tech (and pay pretty well, too).
+> If you have an analytical mindset and love decoding data to tell a story, you may want to consider a career as a data analyst or data scientist. After all, they are two of the hottest jobs in tech (and pay pretty well, too).
 
 > [Harvard Business Review](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) even awarded “data scientist” the title of “sexiest job of the 21st century.”
 
@@ -34,9 +34,9 @@ If you have an analytical mindset and love decoding data to tell a story, you ma
 
 Even people who have some basic knowledge of data science have confused the data scientist and data analyst roles. So, what’s the difference between a data scientist and a data analyst? Both work with data, but the key difference is what they do with this data.
 
-- **Data analysts** sift through data and seek to identify trends. What stories do the numbers tell? What business decisions can be made based on these insights? They may also create visual representations, such as charts and graphs to better showcase what the data reveals.
+- **Data analysts** : _sift through data and seek to identify trends. What stories do the numbers tell? What business decisions can be made based on these insights? They may also create visual representations, such as charts and graphs to better showcase what the data reveals._
 
-- **Data scientists** are pros at interpreting data, but also tend to have coding and mathematical modeling expertise. Most data scientists hold an advanced degree, and many actually went from data analyst to data scientist. They can do the work of a data analyst, but are also hands-on in machine learning, skilled with advanced programming, and can create new processes for data modeling. They can work with algorithms, predictive models, and more.
+- **Data scientists** : _are pros at interpreting data, but also tend to have coding and mathematical modeling expertise. Most data scientists hold an advanced degree, and many actually went from data analyst to data scientist. They can do the work of a data analyst, but are also hands-on in machine learning, skilled with advanced programming, and can create new processes for data modeling. They can work with algorithms, predictive models, and more._
 
 Please read more [Here](https://www.springboard.com/blog/data-analyst-vs-data-scientist/)
 
